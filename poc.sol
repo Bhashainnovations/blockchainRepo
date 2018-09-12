@@ -360,5 +360,3 @@ contract CLASS is ERC20
     }
     
 }
-class.txt
-Displaying class.txt.
